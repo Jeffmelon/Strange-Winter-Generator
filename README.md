@@ -1,1 +1,1 @@
-# Strange-Winter-Generator
+# Halloween-Prompt-Generator
