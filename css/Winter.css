@@ -1,0 +1,50 @@
+body {
+    background-image: url("../halloween.jpg");
+    Width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.orange {
+    padding: 40px 20px;
+}
+
+#prompt {
+    font-size: 50px;
+}
+
+div {
+    background-color: rgb(201, 204, 250);
+    Width: 80%; 
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#prompt {
+    color: rgb(1, 77, 184);
+}
+
+h1 {
+    font-size: 40px;
+    padding: 0px 20px;
+    Width: 100%; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    Width: 100%; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    padding: 0px 20px;
+}
